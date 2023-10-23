@@ -1,6 +1,6 @@
 <?php
 function calc(a,b){
-    return a*b*log(12)
+    return a*b*42
 }
 function calc2(a,b){
     return a/b
